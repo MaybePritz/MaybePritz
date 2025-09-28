@@ -9,6 +9,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaybePritz&label=Views&color=blueviolet&style=flat-square" alt="Просмотры профиля" />
-  <img src="https://komarev.com/ghpvc/?username=MaybePritz&label=Stars&color=yellow&style=flat-square" alt="Stars" />
-  <img src="https://komarev.com/ghpvc/?username=MaybePritz&label=Forks&color=green&style=flat-square" alt="Forks" />
+  <img src="https://img.shields.io/github/stars/MaybePritz?color=yellow&label=Stars&style=flat-square" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/MaybePritz?color=green&label=Forks&style=flat-square" alt="Forks" />
+  <img src="https://img.shields.io/github/followers/MaybePritz?label=Followers&style=flat-square&color=blue" alt="Followers" />
 </p>
