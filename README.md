@@ -1,24 +1,14 @@
-# 👋 Hi, I'm MaybePritz
+# 👋 Hey, I'm MaybePritz
 
-### 🚀 About me
-💻 Passionate about coding, learning new technologies, and experimenting with ideas.  
-📚 Mainly working with **Java**, **C#**, and **Node.js**.  
-🌱 Always open to collaboration and new projects.  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaybePritz&show_icons=true&hide_title=true&hide_border=true&theme=transparent&card_width=400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaybePritz&layout=compact&hide_border=true&theme=transparent&card_width=300" />
+</p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MaybePritz&theme=transparent&hide_border=true" />
+</p>
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaybePritz&show_icons=true&theme=tokyonight&hide_border=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaybePritz&layout=compact&theme=tokyonight&hide_border=true)  
-
----
-
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=MaybePritz&theme=tokyonight&hide_border=true)  
-
----
-
-### 🌐 Profile Views
-![Profile views](https://komarev.com/ghpvc/?username=MaybePritz&color=blueviolet&style=flat)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MaybePritz&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
