@@ -8,5 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaybePritz&color=blueviolet&style=flat-square" alt="Просмотры профиля" />
+  <img src="https://komarev.com/ghpvc/?username=MaybePritz&label=Просмотры&color=blueviolet&style=flat-square" alt="Просмотры профиля" />
+  <img src="https://komarev.com/ghpvc/?username=MaybePritz&label=Stars&color=yellow&style=flat-square" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=MaybePritz&label=Forks&color=green&style=flat-square" alt="Forks" />
 </p>
